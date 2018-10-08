@@ -8,10 +8,15 @@
             'https://ichef.bbci.co.uk/news/660/cpsprodpb/1291B/production/_102795067_cirogomes.jpg',
             'https://images.immedia.com.br//29/29472_2_EL.jpg?c=201807251026',
             'https://www.24horasnews.com.br/imagem/resize/1110/550/imagens/2018/06/19/ciro-gomes-e-vaiado-e-deixa-evento-para-prefeitos-de-minas-gerais.jpg',
-            'https://i.em.com.br/_cCxdzLt-Hx0RWsYirP-SotcDsk=/820x0/smart/imgsapp.em.com.br/app/noticia_127983242361/2018/09/06/986676/20180906142929363109o.jpg',
             'https://ogimg.infoglobo.com.br/in/21116826-aa0-806/FT1086A/652/ciro-gomes.jpg',
             'https://www.rbsdirect.com.br/imagesrc/24680812.jpg',
             'https://www.diariodocentrodomundo.com.br/wp-content/uploads/2016/06/Captura-de-Tela-2016-06-24-%C3%A0s-19.06.26.png',
+            'https://i.imgur.com/uEkxLIM.jpg',
+            'https://i.imgur.com/FtKI2Rv.jpg',
+            'https://i.imgur.com/t3cvvwj.png',
+            'https://i.imgur.com/dT8czFQ.jpg',
+            'https://i.imgur.com/VxQL4pM.jpg',
+            'https://i.imgur.com/5QKPsTa.jpg',
         ],
         handleImages: function (lstImgs, time) {
             $.each($('img'), function (i, item) {
