@@ -2,7 +2,7 @@
   "name": "Cirao",
   "version": "1.0",
   "manifest_version": 2,
-  "description": "Chrome extension to change all the images for Ciro Gomes.",
+  "description": "Chrome extension to replaces all images on all pages to Ciro Gomes.",
   "homepage_url": "https://github.com/brunopadz/cirao",
   "author": "Bruno Padilha",
   "short_name": "Cirao",
